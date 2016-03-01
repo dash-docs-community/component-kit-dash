@@ -1,6 +1,6 @@
 {
   "name": "component-kit-dash",
-  "version": "1.0.0",
+  "version": "0.14.0",
   "description": "ComponentKit, A React-Inspired View Framework for iOS (from facebook) Documentation Source for Dash (http://kapeli.com/dash)",
   "repository": {
     "type": "git",
