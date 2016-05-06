@@ -175,6 +175,16 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "use-designated-initializer-style",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "break-out-composites",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "lifecycle-manager",
         "type": "Guides",
         "toc": "Section"

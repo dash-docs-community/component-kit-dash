@@ -1,5 +1,7 @@
 # [ComponentKit](http://http://componentkit.org/), A React-Inspired View Framework for iOS (from facebook) documentation for [Dash](http://kapeli.com/dash)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/epitaphmike/component-kit-dash/badge.svg)](https://snyk.io/test/github/epitaphmike/component-kit-dash)
+
 ## Installation in Dash
 
 **To install the ComponentKit documentation in Dash, go to:**
