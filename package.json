@@ -11,7 +11,8 @@
     "cheerio": "^0.19.0",
     "lodash.flatten": "^3.0.2",
     "sequelize": "^3.0.0",
-    "sqlite3": "^3.0.9"
+    "sqlite3": "^3.0.9",
+    "snyk": "^1.33.0"
   },
   "keywords": [
     "ComponentKit",
@@ -25,12 +26,15 @@
   ],
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "snyk test",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "author": "Michael Sharer <m@29degre.es> (http://29degre.es)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/epitaphmike/component-kit-dash/issues"
   },
-  "homepage": "https://github.com/epitaphmike/component-kit-dash"
+  "homepage": "https://github.com/epitaphmike/component-kit-dash",
+  "snyk": true
 }
